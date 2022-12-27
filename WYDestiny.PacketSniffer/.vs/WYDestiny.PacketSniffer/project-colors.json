@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98d43909-9f34-4496-8455-dcaa759533c8": {
+      "ProjectGuid": "98d43909-9f34-4496-8455-dcaa759533c8",
+      "DisplayName": "WYDestiny.PacketSniffer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3ef30f8-59bb-4343-a967-dd623fc37f63": {
+      "ProjectGuid": "b3ef30f8-59bb-4343-a967-dd623fc37f63",
+      "DisplayName": "W2.PacketSniffer.Core",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

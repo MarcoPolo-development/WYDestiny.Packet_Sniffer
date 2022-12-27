@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\bin\Release\WYDestiny.PacketSniffer.Core.dll
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\bin\Release\WYDestiny.PacketSniffer.Core.pdb
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\obj\Release\WYDestiny.PacketSniffer.Core.csproj.ResolveComReference.cache
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\obj\Release\WYDestiny.PacketSniffer.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\obj\Release\WYDestiny.PacketSniffer.Core.dll
+C:\Users\User\Downloads\wyd\W2-Packet-Sniffer-master\W2-Packet-Sniffer-master - Kopie\WYDestiny.PacketSniffer.Core\obj\Release\WYDestiny.PacketSniffer.Core.pdb
